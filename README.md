@@ -6,7 +6,9 @@ Many ASVs are already available in the market which offer satisfactory services 
 In this work we propose the design and control of an ASV which is intended to be used for monitoring lakes and other small water bodies. We start prototyping the remotely operated version and then slowly move on to autonomous control. The vehicle will be equipped with lots of sensors to monitor the health of the water bodies and navigational unit to help it navigate.
 # First Version : Remote Control completed .
 Vedio Link : 
+
 Team Members:
+
 Charvi 
 Mayank 
 Amrit
