@@ -7,7 +7,7 @@ In this work we propose the design and control of an ASV which is intended to be
 # First Version : Remote Control completed .
 Vedio Link : 
 
-Team Members:
+Team Members: https://www.youtube.com/watch?v=Dw1MakCAd9A&feature=youtu.be
 
 Charvi ,
 Mayank ,
