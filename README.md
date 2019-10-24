@@ -5,9 +5,10 @@ Many ASVs are already available in the market which offer satisfactory services 
 
 In this work we propose the design and control of an ASV which is intended to be used for monitoring lakes and other small water bodies. We start prototyping the remotely operated version and then slowly move on to autonomous control.
 # First Version : Remote Control completed .
-Vedio Link : 
+### Video Link : 
+ https://www.youtube.com/watch?v=Dw1MakCAd9A&feature=youtu.be
 
-Team Members: https://www.youtube.com/watch?v=Dw1MakCAd9A&feature=youtu.be
+Team Members: 
 
 Charvi ,
 Mayank ,
